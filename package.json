@@ -1,0 +1,19 @@
+{
+  "name": "af_lab_03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/it21151392/AF_Lab_03.git"
+  },
+  "author": "Janindu Dissanayake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/it21151392/AF_Lab_03/issues"
+  },
+  "homepage": "https://github.com/it21151392/AF_Lab_03#readme"
+}
